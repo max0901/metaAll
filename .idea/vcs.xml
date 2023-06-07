@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01_java/cal" vcs="" />
+    <mapping directory="$PROJECT_DIR$/01_java/local-repo/Private-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/01_java/local-repo/hello-world-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/01_java/vending-machine" vcs="" />
+    <mapping directory="$PROJECT_DIR$/01_java/workspace" vcs="" />
+    <mapping directory="$PROJECT_DIR$/01_java/workspace/chap1" vcs="" />
+    <mapping directory="$PROJECT_DIR$/02_servlet/workspace" vcs="" />
+  </component>
+</project>

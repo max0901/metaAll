@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/calculator" />
+    <file type="web" url="file://$PROJECT_DIR$/local-repo/hello-world-project" />
+    <file type="web" url="file://$PROJECT_DIR$/local-repo/Private-project" />
+    <file type="web" url="file://$PROJECT_DIR$/team/team-test" />
+    <file type="web" url="file://$PROJECT_DIR$/test-sample/calc-porject" />
+    <file type="web" url="file://$PROJECT_DIR$/untitled" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap01-literal-and-variable-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap02-operator-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap03-method-and-api-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap04-control-flow-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap06-class-and-object-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap07-object-array-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap08-inheritance-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap09-polymorphism-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap11-generics-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap12-collection-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap13-exception-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap14-io-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap16-lambda-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/01_lecture-source/chap17-stream-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/hello-world-project" />
+    <file type="web" url="file://$PROJECT_DIR$/workspace/new" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

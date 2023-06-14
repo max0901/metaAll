@@ -9,5 +9,11 @@
     <mapping directory="$PROJECT_DIR$/01_java/workspace" vcs="" />
     <mapping directory="$PROJECT_DIR$/01_java/workspace/chap1" vcs="" />
     <mapping directory="$PROJECT_DIR$/02_servlet/workspace" vcs="" />
+    <mapping directory="$PROJECT_DIR$/03_spring-core/workspace/airLine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03_spring-core/workspace/metaRPG" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/monkeyshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/team" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/team2" vcs="Git" />
   </component>
 </project>

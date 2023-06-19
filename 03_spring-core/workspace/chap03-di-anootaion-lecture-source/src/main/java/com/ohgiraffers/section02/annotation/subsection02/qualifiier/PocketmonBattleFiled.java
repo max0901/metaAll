@@ -10,6 +10,7 @@ import org.springframework.stereotype.Component;
 public class PocketmonBattleFiled {
     @Autowired
     @Qualifier("squirtle")
+    //qualitifier는 네임을 부여한다
 //    private Pocketmon poketmon;
     private Poketmon poketmon;
 //    @Autowired

@@ -18,7 +18,7 @@ public class PocketmonBattleFiled {
         this.poketmons=poketmons;
     }
     public void fight(){
-            poketmons.attack();
+
     }
 
 

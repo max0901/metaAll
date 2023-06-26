@@ -1,0 +1,10 @@
+test:
+  greeting: hi!!
+#하위 쓸떄 공백2칸 value값은 공백한칸
+  array: 안녕, 반가워
+    #이런식으로 쓰는게 더안정적
+#  array:
+#    - 안녕
+#    - 반가워
+    #목록식으로 작동해도됨
+  value: hello world!!

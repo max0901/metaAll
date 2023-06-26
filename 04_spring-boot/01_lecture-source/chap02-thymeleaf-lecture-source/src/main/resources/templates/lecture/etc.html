@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>etc</title>
+</head>
+<body>
+<h2 align="center">etc</h2>
+<th:block th:with="start =${selectCriterla.startPage},last=${selectCriterla.endPage}">
+    <th:block th:each="p:${#numbers.sequence(start,last)}">
+        <th:block th:if="${selectCriterla.pageNo eq p}">
+            <button th:text="${p}" disabled></button>
+        </th:block>
+        <th:block th:if="${selectCriterla.pageNo ne p}">
+            <button th:text="${p}"></button>
+        </th:block>
+    </th:block>
+</th:block>
+</body>
+</html>

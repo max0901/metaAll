@@ -12,6 +12,8 @@
     <mapping directory="$PROJECT_DIR$/03_spring-core/workspace/airLine" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Boj" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MetaRPG" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEBRPG" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/food-delivery" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/monkeyshop" vcs="Git" />
   </component>
 </project>
